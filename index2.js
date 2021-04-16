@@ -16,7 +16,7 @@
 // console.log(arr);
 // console.log(arr[1], arr[2]);
 // console.log(arr[4]);
-
+///
 // we change variable 1 with a new data
 // arr[1] = ("Feb-2021");
 // console.log(arr);
